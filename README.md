@@ -1,8 +1,12 @@
 # Jarkom-Modul-1-ITA10-2022
 Laporan Resmi praktikum Jarkom kelompok ITA10
 <br>
+Hafizh Abid Wibowo 5027201011
+Muhammad Farrel Abdillah 5027201057
+<br>
 Berikut adalah Dokumentasi dan langkah pengerjaan untuk laporan resmi praktikum jarkom modul 1
-
+<br>
+Note: Lapres juga tersedia dalam bentuk pdf pada file Lapres.pdf
 <br>
 <br>
 1. Dengan menggunakan display filter http.response.code kita bisa mendapatkan response dari protokol http kemudian terdapat beberapa informasi seperti Server dan HTTP response tersebut merupakan respons dari Request URL yang mana. 
