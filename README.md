@@ -6,7 +6,7 @@ Berikut adalah Dokumentasi dan langkah pengerjaan untuk laporan resmi praktikum 
 <br>
 <br>
 1. Dengan menggunakan display filter http.response.code kita bisa mendapatkan response dari protokol http kemudian terdapat beberapa informasi seperti Server dan HTTP response tersebut merupakan respons dari Request URL yang mana. 
-
+![Screenshot](1.png)
 Dari response diatas dapat dilihat bahwa Web server dari monta merupakan: nginx/1.10.3
 <br>
 <br>
