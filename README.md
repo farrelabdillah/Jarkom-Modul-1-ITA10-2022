@@ -63,4 +63,5 @@ Flag akan segera terlihat setelah memasukkan password, Flagnya adalah JaRkOm2022
 <br>
 KESULITAN YANG DIALAMI:
 - Kesulitan mencari command yang tepat pada wireshark untuk membedakan paket yang menuju dari - dan paket yang datang dari -. Kesulitan dapat disolve dengan searching.
+<br>
 - Kesulitan mencari password untuk membuka flag
