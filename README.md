@@ -1,5 +1,7 @@
 # Jarkom-Modul-1-ITA10-2022
-Laporan Resmi praktikum Jarkom kelompok ITA10
+**Laporan Resmi praktikum Jarkom kelompok ITA10**
+<br>
+Dokumentasi dikerjakan melalui google docs lalu diupload kedalam repository github dengan persentase pengerjaan:
 <br>
 Hafizh Abid Wibowo 5027201011 - 50%
 <br>
