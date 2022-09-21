@@ -1,9 +1,9 @@
 # Jarkom-Modul-1-ITA10-2022
 Laporan Resmi praktikum Jarkom kelompok ITA10
 <br>
-Hafizh Abid Wibowo 5027201011
+Hafizh Abid Wibowo 5027201011 - 50%
 <br>
-Muhammad Farrel Abdillah 5027201057
+Muhammad Farrel Abdillah 5027201057 - 50%
 <br>
 Berikut adalah Dokumentasi dan langkah pengerjaan untuk laporan resmi praktikum jarkom modul 1
 <br>
