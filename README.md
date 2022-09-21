@@ -7,9 +7,11 @@ Muhammad Farrel Abdillah 5027201057
 Berikut adalah Dokumentasi dan langkah pengerjaan untuk laporan resmi praktikum jarkom modul 1
 <br>
 **Note: Lapres juga tersedia dalam bentuk pdf pada file Lapres.pdf**
+<br>
 
 <br>
 <br>
+Dibawah ini, kami menuliskan langkah pengerjaan berdasarkan setiap nomor disertai dengan screenshotnya.
 1. Dengan menggunakan display filter http.response.code kita bisa mendapatkan response dari protokol http kemudian terdapat beberapa informasi seperti Server dan HTTP response tersebut merupakan respons dari Request URL yang mana. 
 <img src="Screenshot/1.png">
 Dari response diatas dapat dilihat bahwa Web server dari monta merupakan: nginx/1.10.3
